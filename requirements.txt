@@ -113,7 +113,7 @@ termcolor==1.1.0
 threadpoolctl==2.1.0; python_version >= "3.6"
 timeseriescrossvalidation @ git+https://github.com/DidierRLopes/TimeSeriesCrossValidation.git@master
 tokenizers==0.9.3; python_full_version >= "3.6.0" and python_version >= "3.6"
-torch==1.7.1; python_full_version >= "3.6.2" and python_version >= "3.6"
+torch==2.7.1; python_full_version >= "3.6.2" and python_version >= "3.6"
 tqdm==4.58.0; python_full_version >= "3.6.0" and python_version >= "3.6"
 transformers==3.5.1; python_full_version >= "3.6.0" and python_version >= "3.6"
 typing-extensions==3.7.4.3; python_full_version >= "3.6.2" and python_version >= "3.6" and python_version < "3.8" and (python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "3.8" or python_full_version >= "3.2.0" and python_version >= "3.6" and python_version < "3.8")
