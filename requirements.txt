@@ -122,7 +122,7 @@ urllib3==1.26.3; python_version >= "3.6" and python_full_version < "3.0.0" or py
 user-agent==0.1.9
 wcwidth==0.2.5; python_version >= "3.6"
 websocket-client==0.57.0; python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.6" and python_version < "4.0" and python_full_version >= "3.4.0"
-werkzeug==1.0.1; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
+werkzeug==3.1.5; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
 wrapt==1.12.1; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.6"
 yarl==1.6.3; python_version >= "3.6"
 yfinance==0.1.55
